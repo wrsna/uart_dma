@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="all" />
+	<File name="app/include/bord.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="339" topLine="6" />
+		</Cursor>
+	</File>
+	<File name="app/include/asf.h" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1007" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/pio/pio_sam3x8e.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="506" />
+		</Cursor>
+	</File>
+	<File name="config.mk" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3542" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/source/templates/exceptions.c" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2262" topLine="69" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/drivers/uart/uart.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2600" topLine="125" />
+		</Cursor>
+	</File>
+	<File name="app/src/rtos_task.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4369" topLine="230" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/drivers/uart/uart.c" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3998" topLine="88" />
+		</Cursor>
+	</File>
+	<File name="app/src/fifo.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1175" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/source/templates/gcc/startup_sam3x.c" open="1" top="1" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6816" topLine="157" />
+		</Cursor>
+	</File>
+	<File name="app/include/rtos_task.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="193" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="asf/thirdparty/CMSIS/include/core_cmInstr.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="558" />
+		</Cursor>
+	</File>
+	<File name="app/src/main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1212" topLine="21" />
+		</Cursor>
+	</File>
+	<File name="app/src/rtos.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1650" topLine="40" />
+		</Cursor>
+	</File>
+	<File name="app/src/bord.c" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="104" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="app/include/rtos.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="131" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="app/include/fifo.h" open="1" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="136" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/sam3xa.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="app/include/uart_handler.h" open="1" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="221" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="app/src/uart_handler.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1008" topLine="27" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/sam3x8e.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="24820" topLine="420" />
+		</Cursor>
+	</File>
+	<File name="asf/sam/utils/cmsis/sam3x/include/component/component_uart.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9096" topLine="133" />
+		</Cursor>
+	</File>
+	<File name="asf/thirdparty/CMSIS/include/core_cm3.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="95939" topLine="1615" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
